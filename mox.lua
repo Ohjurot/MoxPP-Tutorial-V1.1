@@ -40,7 +40,7 @@ cmox_src_folder = "src"
 -- "manual"         Projects are not loaded by the MoxPP
 --                  provide the "cmox_function_includeprojects"
 --                  function.
-cmox_project_architecture = "single" 
+cmox_project_architecture = "flat" 
 
 -- MACRO PREFIX
 -- This will be prepended to ALL non default macros
